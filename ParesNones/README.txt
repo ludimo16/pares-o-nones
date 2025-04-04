@@ -1,4 +1,4 @@
-# Pares o Nones 🎲
+# Pares o Nones
 
 Mini juego hecho en Java con Swing como práctica personal.
 
